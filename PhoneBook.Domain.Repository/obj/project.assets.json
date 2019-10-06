@@ -3091,11 +3091,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.Domain.Repository\\PhoneBook.Domain.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.Domain.Repository\\PhoneBook.Domain.Repository.csproj",
       "projectName": "PhoneBook.Domain.Repository",
-      "projectPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.Domain.Repository\\PhoneBook.Domain.Repository.csproj",
+      "projectPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.Domain.Repository\\PhoneBook.Domain.Repository.csproj",
       "packagesPath": "C:\\Users\\ghazal_m\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.Domain.Repository\\obj\\",
+      "outputPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.Domain.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3114,11 +3114,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.Infrastructure.DataAccess.EF\\PhoneBook.Infrastructure.DataAccess.EF.csproj": {
-              "projectPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.Infrastructure.DataAccess.EF\\PhoneBook.Infrastructure.DataAccess.EF.csproj"
+            "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.Infrastructure.DataAccess.EF\\PhoneBook.Infrastructure.DataAccess.EF.csproj": {
+              "projectPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.Infrastructure.DataAccess.EF\\PhoneBook.Infrastructure.DataAccess.EF.csproj"
             },
-            "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.DomainModel\\PhoneBook.Domain.DomainModel.csproj": {
-              "projectPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.DomainModel\\PhoneBook.Domain.DomainModel.csproj"
+            "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.DomainModel\\PhoneBook.Domain.DomainModel.csproj": {
+              "projectPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.DomainModel\\PhoneBook.Domain.DomainModel.csproj"
             }
           }
         }

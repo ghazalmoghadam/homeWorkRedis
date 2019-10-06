@@ -85,32 +85,51 @@ namespace PhoneBook.Presentation.WebApi.Controllers
                     var role = new Dictionary<string,string>();
                     role.Add("CanGetReport", "true");
                     RoleDictionary.Add(role);
+                    //client.Set<Dictionary<string, string>>(sessionIdKey, RoleDictionary, expireDateTime);
                 }
                 else
                 {
                     var role = new Dictionary<string, string>();
                     role.Add("CanGetReport", "false");
-                    RoleDictionary.Add(role);   
+                    RoleDictionary.Add(role);
+                    //RoleDictionary= new List<Dictionary<string, string>>();
+                    //RoleDictionary.Add("CanGetReport", "false");
+                    //client.Set<Dictionary<string, string>>(sessionIdKey, RoleDictionary, expireDateTime);
                 }
                 client.Set<List<Dictionary<string, string>>>(user.Id.ToString(), RoleDictionary, expireDateTime);
 
-                
+
+                //RoleDictionary = new Dictionary<string, string>();
                 if (user.CanWrite)
                 {
                     var role = new Dictionary<string, string>();
                     role.Add("CanWrite", "true");
                     RoleDictionary.Add(role);
+                    //RoleDictionary.Add("CanWrite", "true");
                 }
                 else
                 {
                     var role = new Dictionary<string, string>();
                     role.Add("CanWrite", "false");
                     RoleDictionary.Add(role);
+                    //RoleDictionary.Add("CanWrite", "false");
                 }
                 client.Set<List<Dictionary<string, string>>>(user.Id.ToString(), RoleDictionary, expireDateTime);
-                
 
-            }//Using Redis
+
+
+                //if(user.CanGetReport)
+                //    client.Set<string>("CanGetReport", "true");
+                //else
+                //    client.Set<string>("CanGetReport", "false");
+
+                //if (user.CanWrite)
+                //    client.Set<string>("CanWrite", "true");
+                //else
+                //    client.Set<string>("CanWrite", "false");
+
+
+            }//using
 
             return Ok(user);
         }

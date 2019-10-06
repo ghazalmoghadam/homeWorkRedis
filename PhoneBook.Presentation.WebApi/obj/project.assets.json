@@ -13292,11 +13292,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.Presentation.WebApi\\PhoneBook.Presentation.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.Presentation.WebApi\\PhoneBook.Presentation.WebApi.csproj",
       "projectName": "PhoneBook.Presentation.WebApi",
-      "projectPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.Presentation.WebApi\\PhoneBook.Presentation.WebApi.csproj",
+      "projectPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.Presentation.WebApi\\PhoneBook.Presentation.WebApi.csproj",
       "packagesPath": "C:\\Users\\ghazal_m\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.Presentation.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.Presentation.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13315,11 +13315,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.Domain.DomainService\\PhoneBook.Domain.DomainService.csproj": {
-              "projectPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.Domain.DomainService\\PhoneBook.Domain.DomainService.csproj"
+            "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.Domain.DomainService\\PhoneBook.Domain.DomainService.csproj": {
+              "projectPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.Domain.DomainService\\PhoneBook.Domain.DomainService.csproj"
             },
-            "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.Application.ApplicationService\\PhoneBook.Application.ApplicationService.csproj": {
-              "projectPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.Application.ApplicationService\\PhoneBook.Application.ApplicationService.csproj"
+            "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.Application.ApplicationService\\PhoneBook.Application.ApplicationService.csproj": {
+              "projectPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.Application.ApplicationService\\PhoneBook.Application.ApplicationService.csproj"
             }
           }
         }

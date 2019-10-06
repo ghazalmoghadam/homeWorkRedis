@@ -186,11 +186,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.DomainModel\\PhoneBook.Domain.DomainModel.csproj",
+      "projectUniqueName": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.DomainModel\\PhoneBook.Domain.DomainModel.csproj",
       "projectName": "PhoneBook.Domain.DomainModel",
-      "projectPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.DomainModel\\PhoneBook.Domain.DomainModel.csproj",
+      "projectPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.DomainModel\\PhoneBook.Domain.DomainModel.csproj",
       "packagesPath": "C:\\Users\\ghazal_m\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.DomainModel\\obj\\",
+      "outputPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.DomainModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
