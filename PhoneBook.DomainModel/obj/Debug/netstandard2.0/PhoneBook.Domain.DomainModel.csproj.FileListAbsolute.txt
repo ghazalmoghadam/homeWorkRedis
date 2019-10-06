@@ -1,0 +1,17 @@
+C:\Users\Ghazal\source\repos\phoneBook\PhoneBook.DomainModel\bin\Debug\netstandard2.0\PhoneBook.Domain.DomainModel.deps.json
+C:\Users\Ghazal\source\repos\phoneBook\PhoneBook.DomainModel\bin\Debug\netstandard2.0\PhoneBook.Domain.DomainModel.dll
+C:\Users\Ghazal\source\repos\phoneBook\PhoneBook.DomainModel\bin\Debug\netstandard2.0\PhoneBook.Domain.DomainModel.pdb
+C:\Users\Ghazal\source\repos\phoneBook\PhoneBook.DomainModel\obj\Debug\netstandard2.0\PhoneBook.Domain.DomainModel.csprojAssemblyReference.cache
+C:\Users\Ghazal\source\repos\phoneBook\PhoneBook.DomainModel\obj\Debug\netstandard2.0\PhoneBook.Domain.DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\Ghazal\source\repos\phoneBook\PhoneBook.DomainModel\obj\Debug\netstandard2.0\PhoneBook.Domain.DomainModel.AssemblyInfoInputs.cache
+C:\Users\Ghazal\source\repos\phoneBook\PhoneBook.DomainModel\obj\Debug\netstandard2.0\PhoneBook.Domain.DomainModel.AssemblyInfo.cs
+C:\Users\Ghazal\source\repos\phoneBook\PhoneBook.DomainModel\obj\Debug\netstandard2.0\PhoneBook.Domain.DomainModel.dll
+C:\Users\Ghazal\source\repos\phoneBook\PhoneBook.DomainModel\obj\Debug\netstandard2.0\PhoneBook.Domain.DomainModel.pdb
+C:\Users\Ghazal\source\repos\finaly\phoneBook\PhoneBook.DomainModel\bin\Debug\netstandard2.0\PhoneBook.Domain.DomainModel.deps.json
+C:\Users\Ghazal\source\repos\finaly\phoneBook\PhoneBook.DomainModel\bin\Debug\netstandard2.0\PhoneBook.Domain.DomainModel.dll
+C:\Users\Ghazal\source\repos\finaly\phoneBook\PhoneBook.DomainModel\bin\Debug\netstandard2.0\PhoneBook.Domain.DomainModel.pdb
+C:\Users\Ghazal\source\repos\finaly\phoneBook\PhoneBook.DomainModel\obj\Debug\netstandard2.0\PhoneBook.Domain.DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\Ghazal\source\repos\finaly\phoneBook\PhoneBook.DomainModel\obj\Debug\netstandard2.0\PhoneBook.Domain.DomainModel.AssemblyInfoInputs.cache
+C:\Users\Ghazal\source\repos\finaly\phoneBook\PhoneBook.DomainModel\obj\Debug\netstandard2.0\PhoneBook.Domain.DomainModel.AssemblyInfo.cs
+C:\Users\Ghazal\source\repos\finaly\phoneBook\PhoneBook.DomainModel\obj\Debug\netstandard2.0\PhoneBook.Domain.DomainModel.dll
+C:\Users\Ghazal\source\repos\finaly\phoneBook\PhoneBook.DomainModel\obj\Debug\netstandard2.0\PhoneBook.Domain.DomainModel.pdb

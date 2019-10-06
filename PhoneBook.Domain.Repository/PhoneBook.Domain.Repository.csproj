@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Dtos\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PhoneBook.DomainModel\PhoneBook.Domain.DomainModel.csproj" />
+    <ProjectReference Include="..\PhoneBook.Infrastructure.DataAccess.EF\PhoneBook.Infrastructure.DataAccess.EF.csproj" />
+  </ItemGroup>
+
+</Project>
