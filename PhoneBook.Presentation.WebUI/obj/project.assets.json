@@ -12385,11 +12385,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.Presentation.WebUI\\PhoneBook.Presentation.WebUI.fsproj",
+      "projectUniqueName": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.Presentation.WebUI\\PhoneBook.Presentation.WebUI.fsproj",
       "projectName": "PhoneBook.Presentation.WebUI",
-      "projectPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.Presentation.WebUI\\PhoneBook.Presentation.WebUI.fsproj",
+      "projectPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.Presentation.WebUI\\PhoneBook.Presentation.WebUI.fsproj",
       "packagesPath": "C:\\Users\\ghazal_m\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\finaly\\phoneBook\\PhoneBook.Presentation.WebUI\\obj\\",
+      "outputPath": "C:\\Users\\ghazal_m\\Desktop\\RedisPractice\\Redis_HW\\phoneBook\\PhoneBook.Presentation.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
